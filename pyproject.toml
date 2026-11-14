@@ -1,0 +1,13 @@
+[project]
+name = "agentic-dataops"
+version = "0.0.0"
+description = "Phase 1 metadata for evidence-grounded pipeline investigation"
+readme = "README.md"
+requires-python = ">=3.13,<3.14"
+dependencies = []
+
+[tool.portfolio]
+phase = "foundation"
+application_implemented = false
+dependency_resolution_verified = false
+# No build backend or CLI is declared before implementation approval.
