@@ -1,6 +1,6 @@
 # Publication candidate — NOT APPROVED FOR RELEASE
 
-This is a copy-only independent directory, not an initialized Git repository. Original files and evidence remain unchanged. MIT license files are prepared locally for the original materials, subject to the scope notice and final release review. Dependencies are not bundled. Historical dependency reviews are not current vulnerability guarantees.
+This independent Git repository is initialized and staged privately at [RohithVarmaD07/agentic-dataops](https://github.com/RohithVarmaD07/agentic-dataops); access requires repository permission. Public release remains unapproved. Original files and evidence remain unchanged. MIT license files are prepared locally for the original materials, subject to the scope notice and final release review. Dependencies are not bundled. Historical dependency reviews are not current vulnerability guarantees.
 
 Original .github drafts are excluded; references to workflow drafts in other documents describe the original workspace only. No remote CI has run.
 
